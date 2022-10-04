@@ -1,5 +1,5 @@
-# IBM-Project-40595-1660631755 / RAMYA.K/ARUNKUMAR.R/AARTHI.E/SRILEKHA.M
-Corporate Employee Attrition Analytics
+# IBM-Project-40595-1660631755 ---> {[ RAMYA.K / ARUNKUMAR.R / AARTHI.E / SRILEKHA.M ]}
+CORPORATE EMPLOYEE ATTRITION ANALYTICS (B11-5E1E)
 
 
 ASSIGNMENT = 1 DATA VISUALIZATION - https://us1.ca.analytics.ibm.com/bi/?perspective=explore&pathRef=.my_folders%2Fexploration%2Fexploration%2Band%2Bdata%2Bexploration
