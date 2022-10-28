@@ -1,4 +1,5 @@
-# IBM-Project-40595-1660631755 ---> {[ TEAM LEADER= RAMYA.K / TEAM MEMBERS= ARUNKUMAR.R / AARTHI.E / SRILEKHA.M ]}
+# IBM-Project-40595-1660631755 ---> {[ TEAM LEADER= RAMYA.K /
+ TEAM MEMBERS= ARUNKUMAR.R / AARTHI.E / SRILEKHA.M ]}
 
 TEAM ID = PNT2022TMI37083
 
@@ -7,7 +8,7 @@ DOMAIN = DATA ANALYTICS;
 PROJECT TITLE = CORPORATE EMPLOYEE ATTRITION ANALYTICS; 
 
 BATCH = B11-5E1E.
-*______________________________________________________________________________________________________________________________________________________________________________________*
+*________________________*
 
 ASSIGNMENT = 1 DATA VISUALIZATION - https://us1.ca.analytics.ibm.com/bi/?perspective=explore&pathRef=.my_folders%2Fexploration%2Fexploration%2Band%2Bdata%2Bexploration
 
