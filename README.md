@@ -22,3 +22,13 @@ ASSIGNMENT = 3 PYTHON PROGRAMS - https://colab.research.google.com/drive/1pwU-DF
 ASSIGNMENT = 3 PYTHON PROGRAMS - https://colab.research.google.com/drive/1Uss2Ep4-vxHNFMm8p6_lMYqa87Lpxunh#scrollTo=8ugVoEe0kOsk
 
 ASSIGNMENT = 4 PYTHON PROGRAMS - https://colab.research.google.com/drive/12n9KbBNSrugdqVtFCQ31fW7vrUV4i0Qj
+
+SPRINT-2 LINKS BELOW 
+
+DASHBOARD LINK
+
+https://us1.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2Femployee%2Bdashboard&action=view&mode=dashboard&subView=model000001844bf0ad3b_00000001
+
+VISUALIZATION LINK
+
+https://us1.ca.analytics.ibm.com/bi/?perspective=explore&pathRef=.my_folders%2FSPRINT%2BDELIVERY&subView=model000001844b4cae6e_00000000
